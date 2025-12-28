@@ -1,0 +1,61 @@
+# https://github.com/typst/hayagriva/blob/main/docs/file-format.md
+
+first:
+    type: Article
+    author: 
+        - Altman, Alon
+        - Procaccia, Ariel D.
+        - Tennenholtz, Moshe
+    title: 
+        value: "Nonmanipulable Selections from a Tournament"
+        verbatim: true
+    page-range: 1-6
+    page-total: 6
+    serial-number:
+        doi: 10.4230/DagSemProc.10101.5
+        urn: urn:nbn:de:0030-drops-25607
+    url: https://drops.dagstuhl.de/entities/document/10.4230/DagSemProc.10101.5
+    parent:
+        type: Proceedings
+        title: "Dagstuhl Seminar Proceedings, Volume 10101"
+        date: 2010-05-20
+        volume: 10101
+        editor:
+            - Felix Brandt
+            - Vincent Conitzer
+            - Lane A. Hemaspaandra
+            - Jean-Francois Laslier
+            - William S. Zwicker
+        publisher: 
+            name: "Schloss Dagstuhl -- Leibniz-Zentrum für Informatik"
+            location: Dagstuhl, Germany
+        parent:
+            type: Series
+            title: 
+                value: "Dagstuhl Seminar Proceedings"
+                short: "DagSemProc"
+            serial-number:
+                issn: 1862-4405
+            
+
+second:
+    type: Article
+    author:
+        - Altman, Alon
+        - Kleinberg, Robert
+    title:
+        value: "Nonmanipulable Randomized Tournament Selections"
+        verbatim: true
+    date: 2010-07-04
+    page-range: 686-690
+    serial-number:
+        doi: 10.1609/aaai.v24i1.7613
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/7613
+    parent:
+        type: Proceedings
+        title: 
+            value: "Twenty-Fourth AAAI Conference on Artificial Intelligence"
+        date: 2010-05-20
+        volume: 24
+        serial-number:
+            issn: 1862-4405
